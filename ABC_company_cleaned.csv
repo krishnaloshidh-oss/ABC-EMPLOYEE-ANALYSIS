@@ -1,0 +1,459 @@
+Name,Team,Number,Position,Age,Height,Weight,College,Salary,height,AgeGroup
+Avery Bradley,Boston Celtics,0,PG,25,2023-02-06 00:00:00,180,Texas,7730337.0,156,18-25
+Jae Crowder,Boston Celtics,99,SF,25,2023-06-06 00:00:00,235,Marquette,6796117.0,169,18-25
+John Holland,Boston Celtics,30,SG,27,2023-05-06 00:00:00,205,Boston University,,178,26-30
+R.J. Hunter,Boston Celtics,28,SG,22,2023-05-06 00:00:00,185,Georgia State,1148640.0,164,18-25
+Jonas Jerebko,Boston Celtics,8,PF,29,2023-10-06 00:00:00,231,,5000000.0,160,26-30
+Amir Johnson,Boston Celtics,90,PF,29,2023-09-06 00:00:00,240,,12000000.0,157,26-30
+Jordan Mickey,Boston Celtics,55,PF,21,2023-08-06 00:00:00,235,LSU,1170960.0,178,18-25
+Kelly Olynyk,Boston Celtics,41,C,25,7-0,238,Gonzaga,2165160.0,170,18-25
+Terry Rozier,Boston Celtics,12,PG,22,2023-02-06 00:00:00,190,Louisville,1824360.0,156,18-25
+Marcus Smart,Boston Celtics,36,PG,22,2023-04-06 00:00:00,220,Oklahoma State,3431040.0,175,18-25
+Jared Sullinger,Boston Celtics,7,C,24,2023-09-06 00:00:00,260,Ohio State,2569260.0,168,18-25
+Isaiah Thomas,Boston Celtics,4,PG,27,2023-09-05 00:00:00,185,Washington,6912869.0,172,26-30
+Evan Turner,Boston Celtics,11,SG,27,2023-07-06 00:00:00,220,Ohio State,3425510.0,160,26-30
+James Young,Boston Celtics,13,SG,20,2023-06-06 00:00:00,215,Kentucky,1749840.0,160,18-25
+Tyler Zeller,Boston Celtics,44,C,26,7-0,253,North Carolina,2616975.0,173,26-30
+Bojan Bogdanovic,Brooklyn Nets,44,SG,27,2023-08-06 00:00:00,216,,3425510.0,170,26-30
+Markel Brown,Brooklyn Nets,22,SG,24,2023-03-06 00:00:00,190,Oklahoma State,845059.0,153,18-25
+Wayne Ellington,Brooklyn Nets,21,SG,28,2023-04-06 00:00:00,200,North Carolina,1500000.0,157,26-30
+Rondae Hollis-Jefferson,Brooklyn Nets,24,SG,21,2023-07-06 00:00:00,220,Arizona,1335480.0,173,18-25
+Jarrett Jack,Brooklyn Nets,2,PG,32,2023-03-06 00:00:00,200,Georgia Tech,6300000.0,152,31-35
+Sergey Karasev,Brooklyn Nets,10,SG,22,2023-07-06 00:00:00,208,,1599840.0,171,18-25
+Sean Kilpatrick,Brooklyn Nets,6,SG,26,2023-04-06 00:00:00,219,Cincinnati,134215.0,170,26-30
+Shane Larkin,Brooklyn Nets,0,PG,23,2023-11-05 00:00:00,175,Miami (FL),1500000.0,151,18-25
+Brook Lopez,Brooklyn Nets,11,C,28,7-0,275,Stanford,19689000.0,173,26-30
+Chris McCullough,Brooklyn Nets,1,PF,21,2023-11-06 00:00:00,200,Syracuse,1140240.0,161,18-25
+Willie Reed,Brooklyn Nets,33,PF,26,2023-10-06 00:00:00,220,Saint Louis,947276.0,179,26-30
+Thomas Robinson,Brooklyn Nets,41,PF,25,2023-10-06 00:00:00,237,Kansas,981348.0,155,18-25
+Henry Sims,Brooklyn Nets,14,C,26,2023-10-06 00:00:00,248,Georgetown,947276.0,151,26-30
+Donald Sloan,Brooklyn Nets,15,PG,28,2023-03-06 00:00:00,205,Texas A&M,947276.0,177,26-30
+Thaddeus Young,Brooklyn Nets,30,PF,27,2023-08-06 00:00:00,221,Georgia Tech,11235955.0,170,26-30
+Arron Afflalo,New York Knicks,4,SG,30,2023-05-06 00:00:00,210,UCLA,8000000.0,150,26-30
+Lou Amundson,New York Knicks,17,PF,33,2023-09-06 00:00:00,220,UNLV,1635476.0,161,31-35
+Thanasis Antetokounmpo,New York Knicks,43,SF,23,2023-07-06 00:00:00,205,,30888.0,175,18-25
+Carmelo Anthony,New York Knicks,7,SF,32,2023-08-06 00:00:00,240,Syracuse,22875000.0,171,31-35
+Jose Calderon,New York Knicks,3,PG,34,2023-03-06 00:00:00,200,,7402812.0,178,31-35
+Cleanthony Early,New York Knicks,11,SF,25,2023-08-06 00:00:00,210,Wichita State,845059.0,161,18-25
+Langston Galloway,New York Knicks,2,SG,24,2023-02-06 00:00:00,200,Saint Joseph's,845059.0,174,18-25
+Jerian Grant,New York Knicks,13,PG,23,2023-04-06 00:00:00,195,Notre Dame,1572360.0,166,18-25
+Robin Lopez,New York Knicks,8,C,28,7-0,255,Stanford,12650000.0,176,26-30
+Kyle O'Quinn,New York Knicks,9,PF,26,2023-10-06 00:00:00,250,Norfolk State,3750000.0,176,26-30
+Kristaps Porzingis,New York Knicks,6,PF,20,2023-03-07 00:00:00,240,,4131720.0,180,18-25
+Kevin Seraphin,New York Knicks,1,C,26,2023-10-06 00:00:00,278,,2814000.0,159,26-30
+Lance Thomas,New York Knicks,42,SF,28,2023-08-06 00:00:00,235,Duke,1636842.0,177,26-30
+Sasha Vujacic,New York Knicks,18,SG,32,2023-07-06 00:00:00,195,,947276.0,177,31-35
+Derrick Williams,New York Knicks,23,PF,25,2023-08-06 00:00:00,240,Arizona,4000000.0,165,18-25
+Tony Wroten,New York Knicks,5,SG,23,2023-06-06 00:00:00,205,Washington,167406.0,164,18-25
+Elton Brand,Philadelphia 76ers,42,PF,37,2023-09-06 00:00:00,254,Duke,,179,36-40
+Isaiah Canaan,Philadelphia 76ers,0,PG,25,6-0,201,Murray State,947276.0,179,18-25
+Robert Covington,Philadelphia 76ers,33,SF,25,2023-09-06 00:00:00,215,Tennessee State,1000000.0,164,18-25
+Joel Embiid,Philadelphia 76ers,21,C,22,7-0,250,Kansas,4626960.0,179,18-25
+Jerami Grant,Philadelphia 76ers,39,SF,22,2023-08-06 00:00:00,210,Syracuse,845059.0,168,18-25
+Richaun Holmes,Philadelphia 76ers,22,PF,22,2023-10-06 00:00:00,245,Bowling Green,1074169.0,161,18-25
+Carl Landry,Philadelphia 76ers,7,PF,32,2023-09-06 00:00:00,248,Purdue,6500000.0,172,31-35
+Kendall Marshall,Philadelphia 76ers,5,PG,24,2023-04-06 00:00:00,200,North Carolina,2144772.0,169,18-25
+T.J. McConnell,Philadelphia 76ers,12,PG,24,2023-02-06 00:00:00,200,Arizona,525093.0,174,18-25
+Nerlens Noel,Philadelphia 76ers,4,PF,22,2023-11-06 00:00:00,228,Kentucky,3457800.0,152,18-25
+Jahlil Okafor,Philadelphia 76ers,8,C,20,2023-11-06 00:00:00,275,Duke,4582680.0,154,18-25
+Ish Smith,Philadelphia 76ers,1,PG,27,6-0,175,Wake Forest,947276.0,168,26-30
+Nik Stauskas,Philadelphia 76ers,11,SG,22,2023-06-06 00:00:00,205,Michigan,2869440.0,156,18-25
+Hollis Thompson,Philadelphia 76ers,31,SG,25,2023-08-06 00:00:00,206,Georgetown,947276.0,170,18-25
+Christian Wood,Philadelphia 76ers,35,PF,20,2023-11-06 00:00:00,220,UNLV,525093.0,158,18-25
+Bismack Biyombo,Toronto Raptors,8,C,23,2023-09-06 00:00:00,245,,2814000.0,156,18-25
+Bruno Caboclo,Toronto Raptors,20,SF,20,2023-09-06 00:00:00,205,,1524000.0,167,18-25
+DeMarre Carroll,Toronto Raptors,5,SF,29,2023-08-06 00:00:00,212,Missouri,13600000.0,153,26-30
+DeMar DeRozan,Toronto Raptors,10,SG,26,2023-07-06 00:00:00,220,USC,10050000.0,174,26-30
+James Johnson,Toronto Raptors,3,PF,29,2023-09-06 00:00:00,250,Wake Forest,2500000.0,177,26-30
+Cory Joseph,Toronto Raptors,6,PG,24,2023-03-06 00:00:00,190,Texas,7000000.0,163,18-25
+Kyle Lowry,Toronto Raptors,7,PG,30,6-0,205,Villanova,12000000.0,167,26-30
+Lucas Nogueira,Toronto Raptors,92,C,23,7-0,220,,1842000.0,175,18-25
+Patrick Patterson,Toronto Raptors,54,PF,27,2023-09-06 00:00:00,235,Kentucky,6268675.0,158,26-30
+Norman Powell,Toronto Raptors,24,SG,23,2023-04-06 00:00:00,215,UCLA,650000.0,175,18-25
+Terrence Ross,Toronto Raptors,31,SF,25,2023-07-06 00:00:00,195,Washington,3553917.0,170,18-25
+Luis Scola,Toronto Raptors,4,PF,36,2023-09-06 00:00:00,240,,2900000.0,151,36-40
+Jason Thompson,Toronto Raptors,1,PF,29,2023-11-06 00:00:00,250,Rider,245177.0,169,26-30
+Jonas Valanciunas,Toronto Raptors,17,C,24,7-0,255,,4660482.0,177,18-25
+Delon Wright,Toronto Raptors,55,PG,24,2023-05-06 00:00:00,190,Utah,1509360.0,164,18-25
+Leandro Barbosa,Golden State Warriors,19,SG,33,2023-03-06 00:00:00,194,,2500000.0,177,31-35
+Harrison Barnes,Golden State Warriors,40,SF,24,2023-08-06 00:00:00,225,North Carolina,3873398.0,156,18-25
+Andrew Bogut,Golden State Warriors,12,C,31,7-0,260,Utah,13800000.0,161,31-35
+Ian Clark,Golden State Warriors,21,SG,25,2023-03-06 00:00:00,175,Belmont,947276.0,178,18-25
+Stephen Curry,Golden State Warriors,30,PG,28,2023-03-06 00:00:00,190,Davidson,11370786.0,157,26-30
+Festus Ezeli,Golden State Warriors,31,C,26,2023-11-06 00:00:00,265,Vanderbilt,2008748.0,164,26-30
+Draymond Green,Golden State Warriors,23,PF,26,2023-07-06 00:00:00,230,Michigan State,14260870.0,152,26-30
+Andre Iguodala,Golden State Warriors,9,SF,32,2023-06-06 00:00:00,215,Arizona,11710456.0,163,31-35
+Shaun Livingston,Golden State Warriors,34,PG,30,2023-07-06 00:00:00,192,,5543725.0,166,26-30
+Kevon Looney,Golden State Warriors,36,SF,20,2023-09-06 00:00:00,220,UCLA,1131960.0,153,18-25
+James Michael McAdoo,Golden State Warriors,20,SF,23,2023-09-06 00:00:00,240,North Carolina,845059.0,167,18-25
+Brandon Rush,Golden State Warriors,4,SF,30,2023-06-06 00:00:00,220,Kansas,1270964.0,157,26-30
+Marreese Speights,Golden State Warriors,5,C,28,2023-10-06 00:00:00,255,Florida,3815000.0,153,26-30
+Klay Thompson,Golden State Warriors,11,SG,26,2023-07-06 00:00:00,215,Washington State,15501000.0,151,26-30
+Anderson Varejao,Golden State Warriors,18,PF,33,2023-11-06 00:00:00,273,,289755.0,179,31-35
+Cole Aldrich,Los Angeles Clippers,45,C,27,2023-11-06 00:00:00,250,Kansas,1100602.0,155,26-30
+Jeff Ayres,Los Angeles Clippers,19,PF,29,2023-09-06 00:00:00,250,Arizona State,111444.0,171,26-30
+Jamal Crawford,Los Angeles Clippers,11,SG,36,2023-05-06 00:00:00,195,Michigan,5675000.0,159,36-40
+Branden Dawson,Los Angeles Clippers,22,SF,23,2023-06-06 00:00:00,225,Michigan State,525093.0,153,18-25
+Jeff Green,Los Angeles Clippers,8,SF,29,2023-09-06 00:00:00,235,Georgetown,9650000.0,171,26-30
+Blake Griffin,Los Angeles Clippers,32,PF,27,2023-10-06 00:00:00,251,Oklahoma,18907726.0,178,26-30
+Wesley Johnson,Los Angeles Clippers,33,SF,28,2023-07-06 00:00:00,215,Syracuse,1100602.0,180,26-30
+DeAndre Jordan,Los Angeles Clippers,6,C,27,2023-11-06 00:00:00,265,Texas A&M,19689000.0,167,26-30
+Luc Richard Mbah a Moute,Los Angeles Clippers,12,PF,29,2023-08-06 00:00:00,230,UCLA,947276.0,175,26-30
+Chris Paul,Los Angeles Clippers,3,PG,31,6-0,175,Wake Forest,21468695.0,161,31-35
+Paul Pierce,Los Angeles Clippers,34,SF,38,2023-07-06 00:00:00,235,Kansas,3376000.0,151,36-40
+Pablo Prigioni,Los Angeles Clippers,9,PG,39,2023-03-06 00:00:00,185,,947726.0,159,36-40
+JJ Redick,Los Angeles Clippers,4,SG,31,2023-04-06 00:00:00,190,Duke,7085000.0,179,31-35
+Austin Rivers,Los Angeles Clippers,25,PG,23,2023-04-06 00:00:00,200,Duke,3110796.0,153,18-25
+C.J. Wilcox,Los Angeles Clippers,30,SG,25,2023-05-06 00:00:00,195,Washington,1159680.0,163,18-25
+Brandon Bass,Los Angeles Lakers,2,PF,31,2023-08-06 00:00:00,250,LSU,3000000.0,180,31-35
+Tarik Black,Los Angeles Lakers,28,C,24,2023-09-06 00:00:00,250,Kansas,845059.0,165,18-25
+Anthony Brown,Los Angeles Lakers,3,SF,23,2023-07-06 00:00:00,210,Stanford,700000.0,164,18-25
+Kobe Bryant,Los Angeles Lakers,24,SF,37,2023-06-06 00:00:00,212,,25000000.0,157,36-40
+Jordan Clarkson,Los Angeles Lakers,6,PG,24,2023-05-06 00:00:00,194,Missouri,845059.0,163,18-25
+Roy Hibbert,Los Angeles Lakers,17,C,29,2023-02-07 00:00:00,270,Georgetown,15592217.0,172,26-30
+Marcelo Huertas,Los Angeles Lakers,9,PG,33,2023-03-06 00:00:00,200,,525093.0,177,31-35
+Ryan Kelly,Los Angeles Lakers,4,PF,25,2023-11-06 00:00:00,230,Duke,1724250.0,174,18-25
+Larry Nance Jr.,Los Angeles Lakers,7,PF,23,2023-09-06 00:00:00,230,Wyoming,1155600.0,179,18-25
+Julius Randle,Los Angeles Lakers,30,PF,21,2023-09-06 00:00:00,250,Kentucky,3132240.0,157,18-25
+D'Angelo Russell,Los Angeles Lakers,1,PG,20,2023-05-06 00:00:00,195,Ohio State,5103120.0,170,18-25
+Robert Sacre,Los Angeles Lakers,50,C,27,7-0,270,Gonzaga,981348.0,165,26-30
+Louis Williams,Los Angeles Lakers,23,SG,29,2023-01-06 00:00:00,175,,7000000.0,162,26-30
+Metta World Peace,Los Angeles Lakers,37,SF,36,2023-07-06 00:00:00,260,St. John's,947276.0,167,36-40
+Nick Young,Los Angeles Lakers,0,SF,31,2023-07-06 00:00:00,210,USC,5219169.0,164,31-35
+Eric Bledsoe,Phoenix Suns,2,PG,26,2023-01-06 00:00:00,190,Kentucky,13500000.0,170,26-30
+Devin Booker,Phoenix Suns,1,SG,19,2023-06-06 00:00:00,206,Kentucky,2127840.0,173,18-25
+Chase Budinger,Phoenix Suns,10,SF,28,2023-07-06 00:00:00,209,Arizona,206192.0,175,26-30
+Tyson Chandler,Phoenix Suns,4,C,33,2023-01-07 00:00:00,240,,13000000.0,174,31-35
+Archie Goodwin,Phoenix Suns,20,SG,21,2023-05-06 00:00:00,200,Kentucky,1160160.0,177,18-25
+John Jenkins,Phoenix Suns,23,SG,25,2023-04-06 00:00:00,215,Vanderbilt,981348.0,177,18-25
+Brandon Knight,Phoenix Suns,3,PG,24,2023-03-06 00:00:00,189,Kentucky,13500000.0,177,18-25
+Alex Len,Phoenix Suns,21,C,22,2023-01-07 00:00:00,260,Maryland,3807120.0,162,18-25
+Jon Leuer,Phoenix Suns,30,PF,27,2023-10-06 00:00:00,228,Wisconsin,1035000.0,158,26-30
+Phil Pressey,Phoenix Suns,25,PG,25,2023-11-05 00:00:00,175,Missouri,55722.0,178,18-25
+Ronnie Price,Phoenix Suns,14,PG,32,2023-02-06 00:00:00,190,Utah Valley,947276.0,164,31-35
+Mirza Teletovic,Phoenix Suns,35,PF,30,2023-09-06 00:00:00,242,,5500000.0,162,26-30
+P.J. Tucker,Phoenix Suns,17,SF,31,2023-06-06 00:00:00,245,Texas,5500000.0,150,31-35
+T.J. Warren,Phoenix Suns,12,SF,22,2023-08-06 00:00:00,230,North Carolina State,2041080.0,174,18-25
+Alan Williams,Phoenix Suns,15,C,23,2023-08-06 00:00:00,260,UC Santa Barbara,83397.0,156,18-25
+Quincy Acy,Sacramento Kings,13,SF,25,2023-07-06 00:00:00,240,Baylor,981348.0,158,18-25
+James Anderson,Sacramento Kings,5,SG,27,2023-06-06 00:00:00,213,Oklahoma State,1015421.0,173,26-30
+Marco Belinelli,Sacramento Kings,3,SG,30,2023-05-06 00:00:00,210,,6060606.0,150,26-30
+Caron Butler,Sacramento Kings,31,SF,36,2023-07-06 00:00:00,228,Connecticut,1449187.0,161,36-40
+Omri Casspi,Sacramento Kings,18,SF,27,2023-09-06 00:00:00,225,,2836186.0,157,26-30
+Willie Cauley-Stein,Sacramento Kings,0,C,22,7-0,240,Kentucky,3398280.0,173,18-25
+Darren Collison,Sacramento Kings,7,PG,28,6-0,175,UCLA,5013559.0,180,26-30
+DeMarcus Cousins,Sacramento Kings,15,C,25,2023-11-06 00:00:00,270,Kentucky,15851950.0,160,18-25
+Seth Curry,Sacramento Kings,30,SG,25,2023-02-06 00:00:00,185,Duke,947276.0,168,18-25
+Duje Dukan,Sacramento Kings,26,PF,24,2023-09-06 00:00:00,220,Wisconsin,525093.0,166,18-25
+Rudy Gay,Sacramento Kings,8,SF,29,2023-08-06 00:00:00,230,Connecticut,12403101.0,157,26-30
+Kosta Koufos,Sacramento Kings,41,C,27,7-0,265,Ohio State,7700000.0,152,26-30
+Ben McLemore,Sacramento Kings,23,SG,23,2023-05-06 00:00:00,195,Kansas,3156600.0,152,18-25
+Eric Moreland,Sacramento Kings,25,PF,24,2023-10-06 00:00:00,238,Oregon State,845059.0,150,18-25
+Rajon Rondo,Sacramento Kings,9,PG,30,2023-01-06 00:00:00,186,Kentucky,9500000.0,176,26-30
+Cameron Bairstow,Chicago Bulls,41,PF,25,2023-09-06 00:00:00,250,New Mexico,845059.0,154,18-25
+Aaron Brooks,Chicago Bulls,0,PG,31,6-0,161,Oregon,2250000.0,159,31-35
+Jimmy Butler,Chicago Bulls,21,SG,26,2023-07-06 00:00:00,220,Marquette,16407500.0,156,26-30
+Mike Dunleavy,Chicago Bulls,34,SG,35,2023-09-06 00:00:00,230,Duke,4500000.0,175,31-35
+Cristiano Felicio,Chicago Bulls,6,PF,23,2023-10-06 00:00:00,275,,525093.0,158,18-25
+Pau Gasol,Chicago Bulls,16,C,35,7-0,250,,7448760.0,177,31-35
+Taj Gibson,Chicago Bulls,22,PF,30,2023-09-06 00:00:00,225,USC,8500000.0,156,26-30
+Justin Holiday,Chicago Bulls,7,SG,27,2023-06-06 00:00:00,185,Washington,947276.0,158,26-30
+Doug McDermott,Chicago Bulls,3,SF,24,2023-08-06 00:00:00,225,Creighton,2380440.0,157,18-25
+Nikola Mirotic,Chicago Bulls,44,PF,25,2023-10-06 00:00:00,220,,5543725.0,161,18-25
+E'Twaun Moore,Chicago Bulls,55,SG,27,2023-04-06 00:00:00,191,Purdue,1015421.0,151,26-30
+Joakim Noah,Chicago Bulls,13,C,31,2023-11-06 00:00:00,232,Florida,13400000.0,150,31-35
+Bobby Portis,Chicago Bulls,5,PF,21,2023-11-06 00:00:00,230,Arkansas,1391160.0,165,18-25
+Derrick Rose,Chicago Bulls,1,PG,27,2023-03-06 00:00:00,190,Memphis,20093064.0,172,26-30
+Tony Snell,Chicago Bulls,20,SF,24,2023-07-06 00:00:00,200,New Mexico,1535880.0,172,18-25
+Matthew Dellavedova,Cleveland Cavaliers,8,PG,25,2023-04-06 00:00:00,198,Saint Mary's,1147276.0,179,18-25
+Channing Frye,Cleveland Cavaliers,9,PF,33,2023-11-06 00:00:00,255,Arizona,8193029.0,173,31-35
+Kyrie Irving,Cleveland Cavaliers,2,PG,24,2023-03-06 00:00:00,193,Duke,16407501.0,154,18-25
+LeBron James,Cleveland Cavaliers,23,SF,31,2023-08-06 00:00:00,250,,22970500.0,152,31-35
+Richard Jefferson,Cleveland Cavaliers,24,SF,35,2023-07-06 00:00:00,233,Arizona,947276.0,161,31-35
+Dahntay Jones,Cleveland Cavaliers,30,SG,35,2023-06-06 00:00:00,225,Duke,,157,31-35
+James Jones,Cleveland Cavaliers,1,SG,35,2023-08-06 00:00:00,218,Miami (FL),947276.0,171,31-35
+Sasha Kaun,Cleveland Cavaliers,14,C,31,2023-11-06 00:00:00,260,Kansas,1276000.0,176,31-35
+Kevin Love,Cleveland Cavaliers,0,PF,27,2023-10-06 00:00:00,251,UCLA,19689000.0,152,26-30
+Jordan McRae,Cleveland Cavaliers,12,SG,25,2023-05-06 00:00:00,179,Tennessee,111196.0,150,18-25
+Timofey Mozgov,Cleveland Cavaliers,20,C,29,2023-01-07 00:00:00,275,,4950000.0,152,26-30
+Iman Shumpert,Cleveland Cavaliers,4,SG,25,2023-05-06 00:00:00,220,Georgia Tech,8988765.0,154,18-25
+J.R. Smith,Cleveland Cavaliers,5,SG,30,2023-06-06 00:00:00,225,,5000000.0,164,26-30
+Tristan Thompson,Cleveland Cavaliers,13,C,25,2023-09-06 00:00:00,238,Texas,14260870.0,163,18-25
+Mo Williams,Cleveland Cavaliers,52,PG,33,2023-01-06 00:00:00,198,Alabama,2100000.0,152,31-35
+Joel Anthony,Detroit Pistons,50,C,33,2023-09-06 00:00:00,245,UNLV,2500000.0,150,31-35
+Aron Baynes,Detroit Pistons,12,C,29,2023-10-06 00:00:00,260,Washington State,6500000.0,154,26-30
+Steve Blake,Detroit Pistons,22,PG,36,2023-03-06 00:00:00,172,Maryland,2170465.0,175,36-40
+Lorenzo Brown,Detroit Pistons,17,PG,25,2023-05-06 00:00:00,189,North Carolina State,111444.0,172,18-25
+Reggie Bullock,Detroit Pistons,25,SF,25,2023-07-06 00:00:00,205,North Carolina,1252440.0,180,18-25
+Kentavious Caldwell-Pope,Detroit Pistons,5,SG,23,2023-05-06 00:00:00,205,Georgia,2891760.0,163,18-25
+Spencer Dinwiddie,Detroit Pistons,8,PG,23,2023-06-06 00:00:00,200,Colorado,845059.0,156,18-25
+Andre Drummond,Detroit Pistons,0,C,22,2023-11-06 00:00:00,279,Connecticut,3272091.0,176,18-25
+Tobias Harris,Detroit Pistons,34,SF,23,2023-09-06 00:00:00,235,Tennessee,16000000.0,158,18-25
+Darrun Hilliard,Detroit Pistons,6,SF,23,2023-06-06 00:00:00,205,Villanova,600000.0,164,18-25
+Reggie Jackson,Detroit Pistons,1,PG,26,2023-03-06 00:00:00,208,Boston College,13913044.0,164,26-30
+Stanley Johnson,Detroit Pistons,3,SF,20,2023-07-06 00:00:00,245,Arizona,2841960.0,175,18-25
+Jodie Meeks,Detroit Pistons,20,SG,28,2023-04-06 00:00:00,210,Kentucky,6270000.0,159,26-30
+Marcus Morris,Detroit Pistons,13,PF,26,2023-09-06 00:00:00,235,Kansas,5000000.0,177,26-30
+Anthony Tolliver,Detroit Pistons,43,PF,31,2023-08-06 00:00:00,240,Creighton,3000000.0,162,31-35
+Lavoy Allen,Indiana Pacers,5,PF,27,2023-09-06 00:00:00,255,Temple,4050000.0,168,26-30
+Rakeem Christmas,Indiana Pacers,25,PF,24,2023-09-06 00:00:00,250,Syracuse,1007026.0,180,18-25
+Monta Ellis,Indiana Pacers,11,SG,30,2023-03-06 00:00:00,185,,10300000.0,156,26-30
+Paul George,Indiana Pacers,13,SF,26,2023-09-06 00:00:00,220,Fresno State,17120106.0,166,26-30
+George Hill,Indiana Pacers,3,PG,30,2023-03-06 00:00:00,188,IUPUI,8000000.0,169,26-30
+Jordan Hill,Indiana Pacers,27,C,28,2023-10-06 00:00:00,235,Arizona,4000000.0,178,26-30
+Solomon Hill,Indiana Pacers,44,SF,25,2023-07-06 00:00:00,225,Arizona,1358880.0,153,18-25
+Ty Lawson,Indiana Pacers,10,PG,28,2023-11-05 00:00:00,195,North Carolina,211744.0,179,26-30
+Ian Mahinmi,Indiana Pacers,28,C,29,2023-11-06 00:00:00,250,,4000000.0,154,26-30
+C.J. Miles,Indiana Pacers,0,SF,29,2023-06-06 00:00:00,231,,4394225.0,172,26-30
+Glenn Robinson III,Indiana Pacers,40,SG,22,2023-07-06 00:00:00,222,Michigan,1100000.0,156,18-25
+Rodney Stuckey,Indiana Pacers,2,PG,30,2023-05-06 00:00:00,205,Eastern Washington,7000000.0,162,26-30
+Myles Turner,Indiana Pacers,33,PF,20,2023-11-06 00:00:00,243,Texas,2357760.0,164,18-25
+Shayne Whittington,Indiana Pacers,42,PF,25,2023-11-06 00:00:00,250,Western Michigan,845059.0,160,18-25
+Joe Young,Indiana Pacers,1,PG,23,2023-02-06 00:00:00,180,Oregon,1007026.0,178,18-25
+Giannis Antetokounmpo,Milwaukee Bucks,34,SF,21,2023-11-06 00:00:00,222,,1953960.0,153,18-25
+Jerryd Bayless,Milwaukee Bucks,19,PG,27,2023-03-06 00:00:00,200,Arizona,3000000.0,162,26-30
+Michael Carter-Williams,Milwaukee Bucks,5,PG,24,2023-06-06 00:00:00,190,Syracuse,2399040.0,156,18-25
+Jared Cunningham,Milwaukee Bucks,9,SG,25,2023-04-06 00:00:00,195,Oregon State,947276.0,176,18-25
+Tyler Ennis,Milwaukee Bucks,11,PG,21,2023-03-06 00:00:00,194,Syracuse,1662360.0,168,18-25
+John Henson,Milwaukee Bucks,31,PF,25,2023-11-06 00:00:00,229,North Carolina,2943221.0,171,18-25
+Damien Inglis,Milwaukee Bucks,17,SF,21,2023-08-06 00:00:00,246,,855000.0,177,18-25
+O.J. Mayo,Milwaukee Bucks,3,SG,28,2023-05-06 00:00:00,210,USC,8000000.0,151,26-30
+Khris Middleton,Milwaukee Bucks,22,SG,24,2023-08-06 00:00:00,234,Texas A&M,14700000.0,159,18-25
+Greg Monroe,Milwaukee Bucks,15,C,26,2023-11-06 00:00:00,265,Georgetown,16407500.0,162,26-30
+Steve Novak,Milwaukee Bucks,6,SF,32,2023-10-06 00:00:00,225,Marquette,295327.0,179,31-35
+Johnny O'Bryant III,Milwaukee Bucks,77,PF,23,2023-09-06 00:00:00,257,LSU,845059.0,174,18-25
+Jabari Parker,Milwaukee Bucks,12,PF,21,2023-08-06 00:00:00,250,Duke,5152440.0,170,18-25
+Miles Plumlee,Milwaukee Bucks,18,C,27,2023-11-06 00:00:00,249,Duke,2109294.0,155,26-30
+Greivis Vasquez,Milwaukee Bucks,21,PG,29,2023-06-06 00:00:00,217,Maryland,6600000.0,177,26-30
+Rashad Vaughn,Milwaukee Bucks,20,SG,19,2023-06-06 00:00:00,202,UNLV,1733040.0,177,18-25
+Justin Anderson,Dallas Mavericks,1,SG,22,2023-06-06 00:00:00,228,Virginia,1449000.0,161,18-25
+J.J. Barea,Dallas Mavericks,5,PG,31,6-0,185,Northeastern,4290000.0,161,31-35
+Jeremy Evans,Dallas Mavericks,21,SF,28,2023-09-06 00:00:00,200,Western Kentucky,1100602.0,169,26-30
+Raymond Felton,Dallas Mavericks,2,PG,31,2023-01-06 00:00:00,205,North Carolina,3950313.0,179,31-35
+Devin Harris,Dallas Mavericks,34,PG,33,2023-03-06 00:00:00,185,Wisconsin,4053446.0,179,31-35
+David Lee,Dallas Mavericks,42,PF,33,2023-09-06 00:00:00,245,Florida,2085671.0,160,31-35
+Wesley Matthews,Dallas Mavericks,23,SG,29,2023-05-06 00:00:00,220,Marquette,16407500.0,175,26-30
+JaVale McGee,Dallas Mavericks,11,C,28,7-0,270,Nevada,1270964.0,172,26-30
+Salah Mejri,Dallas Mavericks,50,C,29,2023-02-07 00:00:00,245,,525093.0,177,26-30
+Dirk Nowitzki,Dallas Mavericks,41,PF,37,7-0,245,,8333334.0,174,36-40
+Zaza Pachulia,Dallas Mavericks,27,C,32,2023-11-06 00:00:00,275,,5200000.0,156,31-35
+Chandler Parsons,Dallas Mavericks,25,SF,27,2023-10-06 00:00:00,230,Florida,15361500.0,179,26-30
+Dwight Powell,Dallas Mavericks,7,PF,24,2023-11-06 00:00:00,240,Stanford,845059.0,150,18-25
+Charlie Villanueva,Dallas Mavericks,3,PF,31,2023-11-06 00:00:00,232,Connecticut,947276.0,150,31-35
+Deron Williams,Dallas Mavericks,8,PG,31,2023-03-06 00:00:00,200,Illinois,5378974.0,174,31-35
+Trevor Ariza,Houston Rockets,1,SF,30,2023-08-06 00:00:00,215,UCLA,8193030.0,176,26-30
+Michael Beasley,Houston Rockets,8,SF,27,2023-10-06 00:00:00,235,Kansas State,306527.0,179,26-30
+Patrick Beverley,Houston Rockets,2,PG,27,2023-01-06 00:00:00,185,Arkansas,6486486.0,174,26-30
+Corey Brewer,Houston Rockets,33,SG,30,2023-09-06 00:00:00,186,Florida,8229375.0,169,26-30
+Clint Capela,Houston Rockets,15,PF,22,2023-10-06 00:00:00,240,,1242720.0,162,18-25
+Sam Dekker,Houston Rockets,7,SF,22,2023-09-06 00:00:00,230,Wisconsin,1646400.0,158,18-25
+Andrew Goudelock,Houston Rockets,0,PG,27,2023-03-06 00:00:00,200,Charleston,200600.0,152,26-30
+James Harden,Houston Rockets,13,SG,26,2023-05-06 00:00:00,220,Arizona State,15756438.0,156,26-30
+Montrezl Harrell,Houston Rockets,35,PF,22,2023-08-06 00:00:00,240,Louisville,1000000.0,155,18-25
+Dwight Howard,Houston Rockets,12,C,30,2023-11-06 00:00:00,265,,22359364.0,157,26-30
+Terrence Jones,Houston Rockets,6,PF,24,2023-09-06 00:00:00,252,Kentucky,2489530.0,176,18-25
+K.J. McDaniels,Houston Rockets,32,SG,23,2023-06-06 00:00:00,205,Clemson,3189794.0,158,18-25
+Donatas Motiejunas,Houston Rockets,20,PF,25,7-0,222,,2288205.0,179,18-25
+Josh Smith,Houston Rockets,5,C,30,2023-09-06 00:00:00,225,,947276.0,154,26-30
+Jason Terry,Houston Rockets,31,SG,38,2023-02-06 00:00:00,185,Arizona,947276.0,150,36-40
+Jordan Adams,Memphis Grizzlies,3,SG,21,2023-05-06 00:00:00,209,UCLA,1404600.0,168,18-25
+Tony Allen,Memphis Grizzlies,9,SG,34,2023-04-06 00:00:00,213,Oklahoma State,5158539.0,159,31-35
+Chris Andersen,Memphis Grizzlies,7,PF,37,2023-10-06 00:00:00,245,Blinn College,5000000.0,161,36-40
+Matt Barnes,Memphis Grizzlies,22,SF,36,2023-07-06 00:00:00,226,UCLA,3542500.0,173,36-40
+Vince Carter,Memphis Grizzlies,15,SG,39,2023-06-06 00:00:00,220,North Carolina,4088019.0,164,36-40
+Mike Conley,Memphis Grizzlies,11,PG,28,2023-01-06 00:00:00,175,Ohio State,9588426.0,176,26-30
+Bryce Cotton,Memphis Grizzlies,8,PG,23,2023-01-06 00:00:00,165,Providence,700902.0,171,18-25
+Jordan Farmar,Memphis Grizzlies,4,PG,29,2023-02-06 00:00:00,180,UCLA,,173,26-30
+Marc Gasol,Memphis Grizzlies,33,C,31,2023-01-07 00:00:00,255,,19688000.0,158,31-35
+JaMychal Green,Memphis Grizzlies,0,PF,25,2023-09-06 00:00:00,227,Alabama,845059.0,169,18-25
+P.J. Hairston,Memphis Grizzlies,19,SF,23,2023-06-06 00:00:00,230,North Carolina,1201440.0,166,18-25
+Jarell Martin,Memphis Grizzlies,10,PF,22,2023-10-06 00:00:00,239,LSU,1230840.0,179,18-25
+Ray McCallum,Memphis Grizzlies,5,PG,24,2023-03-06 00:00:00,190,Detroit,,166,18-25
+Xavier Munford,Memphis Grizzlies,14,PG,24,2023-03-06 00:00:00,180,Rhode Island,,175,18-25
+Zach Randolph,Memphis Grizzlies,50,PF,34,2023-09-06 00:00:00,260,Michigan State,9638555.0,169,31-35
+Lance Stephenson,Memphis Grizzlies,1,SF,25,2023-05-06 00:00:00,230,Cincinnati,9000000.0,161,18-25
+Alex Stepheson,Memphis Grizzlies,35,PF,28,2023-10-06 00:00:00,270,USC,,179,26-30
+Brandan Wright,Memphis Grizzlies,34,PF,28,2023-10-06 00:00:00,210,North Carolina,5464000.0,156,26-30
+Alexis Ajinca,New Orleans Pelicans,42,C,28,2023-02-07 00:00:00,248,,4389607.0,151,26-30
+Ryan Anderson,New Orleans Pelicans,33,PF,28,2023-10-06 00:00:00,240,California,8500000.0,152,26-30
+Omer Asik,New Orleans Pelicans,3,C,29,7-0,255,,9213483.0,166,26-30
+Luke Babbitt,New Orleans Pelicans,8,SF,26,2023-09-06 00:00:00,225,Nevada,1100602.0,154,26-30
+Norris Cole,New Orleans Pelicans,30,PG,27,2023-02-06 00:00:00,175,Cleveland State,3036927.0,166,26-30
+Dante Cunningham,New Orleans Pelicans,44,PF,29,2023-08-06 00:00:00,230,Villanova,2850000.0,173,26-30
+Anthony Davis,New Orleans Pelicans,23,PF,23,2023-10-06 00:00:00,253,Kentucky,7070730.0,166,18-25
+Bryce Dejean-Jones,New Orleans Pelicans,31,SG,23,2023-06-06 00:00:00,203,Iowa State,169883.0,176,18-25
+Toney Douglas,New Orleans Pelicans,16,PG,30,2023-02-06 00:00:00,195,Florida State,1164858.0,166,26-30
+James Ennis,New Orleans Pelicans,4,SF,25,2023-07-06 00:00:00,210,Long Beach State,845059.0,151,18-25
+Tyreke Evans,New Orleans Pelicans,1,SG,26,2023-06-06 00:00:00,220,Memphis,10734586.0,151,26-30
+Tim Frazier,New Orleans Pelicans,2,PG,25,2023-01-06 00:00:00,170,Penn State,845059.0,177,18-25
+Alonzo Gee,New Orleans Pelicans,15,SF,29,2023-06-06 00:00:00,225,Alabama,1320000.0,171,26-30
+Eric Gordon,New Orleans Pelicans,10,SG,27,2023-04-06 00:00:00,215,Indiana,15514031.0,172,26-30
+Jordan Hamilton,New Orleans Pelicans,25,SG,25,2023-07-06 00:00:00,220,Texas,1015421.0,154,18-25
+Jrue Holiday,New Orleans Pelicans,11,PG,25,2023-04-06 00:00:00,205,UCLA,10595507.0,150,18-25
+Orlando Johnson,New Orleans Pelicans,0,SG,27,2023-05-06 00:00:00,220,UC Santa Barbara,55722.0,150,26-30
+Kendrick Perkins,New Orleans Pelicans,5,C,31,2023-10-06 00:00:00,270,,947276.0,168,31-35
+Quincy Pondexter,New Orleans Pelicans,20,SF,28,2023-07-06 00:00:00,220,Washington,3382023.0,179,26-30
+LaMarcus Aldridge,San Antonio Spurs,12,PF,30,2023-11-06 00:00:00,240,Texas,19689000.0,151,26-30
+Kyle Anderson,San Antonio Spurs,1,SF,22,2023-09-06 00:00:00,230,UCLA,1142880.0,170,18-25
+Matt Bonner,San Antonio Spurs,15,C,36,2023-10-06 00:00:00,235,Florida,947276.0,161,36-40
+Boris Diaw,San Antonio Spurs,33,C,34,2023-08-06 00:00:00,250,,7500000.0,175,31-35
+Tim Duncan,San Antonio Spurs,21,C,40,2023-11-06 00:00:00,250,Wake Forest,5250000.0,155,36-40
+Manu Ginobili,San Antonio Spurs,20,SG,38,2023-06-06 00:00:00,205,,2814000.0,172,36-40
+Danny Green,San Antonio Spurs,14,SG,28,2023-06-06 00:00:00,215,North Carolina,10000000.0,153,26-30
+Kawhi Leonard,San Antonio Spurs,2,SF,24,2023-07-06 00:00:00,230,San Diego State,16407500.0,172,18-25
+Boban Marjanovic,San Antonio Spurs,40,C,27,2023-03-07 00:00:00,290,,1200000.0,160,26-30
+Kevin Martin,San Antonio Spurs,23,SG,33,2023-07-06 00:00:00,199,Western Carolina,200600.0,173,31-35
+Andre Miller,San Antonio Spurs,24,PG,40,2023-03-06 00:00:00,200,Utah,250750.0,176,36-40
+Patty Mills,San Antonio Spurs,8,PG,27,6-0,185,Saint Mary's,3578947.0,166,26-30
+Tony Parker,San Antonio Spurs,9,PG,34,2023-02-06 00:00:00,185,,13437500.0,180,31-35
+Jonathon Simmons,San Antonio Spurs,17,SG,26,2023-06-06 00:00:00,195,Houston,525093.0,155,26-30
+David West,San Antonio Spurs,30,PF,35,2023-09-06 00:00:00,250,Xavier,1499187.0,173,31-35
+Kent Bazemore,Atlanta Hawks,24,SF,26,2023-05-06 00:00:00,201,Old Dominion,2000000.0,154,26-30
+Tim Hardaway Jr.,Atlanta Hawks,10,SG,24,2023-06-06 00:00:00,205,Michigan,1304520.0,169,18-25
+Kirk Hinrich,Atlanta Hawks,12,SG,35,2023-04-06 00:00:00,190,Kansas,2854940.0,151,31-35
+Al Horford,Atlanta Hawks,15,C,30,2023-10-06 00:00:00,245,Florida,12000000.0,155,26-30
+Kris Humphries,Atlanta Hawks,43,PF,31,2023-09-06 00:00:00,235,Minnesota,1000000.0,171,31-35
+Kyle Korver,Atlanta Hawks,26,SG,35,2023-07-06 00:00:00,212,Creighton,5746479.0,160,31-35
+Paul Millsap,Atlanta Hawks,4,PF,31,2023-08-06 00:00:00,246,Louisiana Tech,18671659.0,180,31-35
+Mike Muscala,Atlanta Hawks,31,PF,24,2023-11-06 00:00:00,240,Bucknell,947276.0,165,18-25
+Lamar Patterson,Atlanta Hawks,13,SG,24,2023-05-06 00:00:00,225,Pittsburgh,525093.0,165,18-25
+Dennis Schroder,Atlanta Hawks,17,PG,22,2023-01-06 00:00:00,172,,1763400.0,150,18-25
+Mike Scott,Atlanta Hawks,32,PF,27,2023-08-06 00:00:00,237,Virginia,3333333.0,158,26-30
+Thabo Sefolosha,Atlanta Hawks,25,SF,32,2023-07-06 00:00:00,220,,4000000.0,177,31-35
+Tiago Splitter,Atlanta Hawks,11,C,31,2023-11-06 00:00:00,245,,9756250.0,176,31-35
+Walter Tavares,Atlanta Hawks,22,C,24,2023-03-07 00:00:00,260,,1000000.0,155,18-25
+Jeff Teague,Atlanta Hawks,0,PG,27,2023-02-06 00:00:00,186,Wake Forest,8000000.0,165,26-30
+Nicolas Batum,Charlotte Hornets,5,SG,27,2023-08-06 00:00:00,200,,13125306.0,178,26-30
+Troy Daniels,Charlotte Hornets,30,SG,24,2023-04-06 00:00:00,205,Virginia Commonwealth,947276.0,152,18-25
+Jorge Gutierrez,Charlotte Hornets,12,PG,27,2023-03-06 00:00:00,189,California,189455.0,169,26-30
+Tyler Hansbrough,Charlotte Hornets,50,PF,30,2023-09-06 00:00:00,250,North Carolina,947276.0,177,26-30
+Aaron Harrison,Charlotte Hornets,9,SG,21,2023-06-06 00:00:00,210,Kentucky,525093.0,176,18-25
+Spencer Hawes,Charlotte Hornets,0,PF,28,2023-01-07 00:00:00,245,Washington,6110034.0,153,26-30
+Al Jefferson,Charlotte Hornets,25,C,31,2023-10-06 00:00:00,289,,13500000.0,168,31-35
+Frank Kaminsky III,Charlotte Hornets,44,C,23,7-0,240,Wisconsin,2612520.0,175,18-25
+Michael Kidd-Gilchrist,Charlotte Hornets,14,SF,22,2023-07-06 00:00:00,232,Kentucky,6331404.0,152,18-25
+Jeremy Lamb,Charlotte Hornets,3,SG,24,2023-05-06 00:00:00,185,Connecticut,3034356.0,180,18-25
+Courtney Lee,Charlotte Hornets,1,SG,30,2023-05-06 00:00:00,200,Western Kentucky,5675000.0,168,26-30
+Jeremy Lin,Charlotte Hornets,7,PG,27,2023-03-06 00:00:00,200,Harvard,2139000.0,169,26-30
+Kemba Walker,Charlotte Hornets,15,PG,26,2023-01-06 00:00:00,184,Connecticut,12000000.0,156,26-30
+Marvin Williams,Charlotte Hornets,2,PF,29,2023-09-06 00:00:00,237,North Carolina,7000000.0,169,26-30
+Cody Zeller,Charlotte Hornets,40,C,23,7-0,240,Indiana,4204200.0,158,18-25
+Chris Bosh,Miami Heat,1,PF,32,2023-11-06 00:00:00,235,Georgia Tech,22192730.0,150,31-35
+Luol Deng,Miami Heat,9,SF,31,2023-09-06 00:00:00,220,Duke,10151612.0,157,31-35
+Goran Dragic,Miami Heat,7,PG,30,2023-03-06 00:00:00,190,,14783000.0,156,26-30
+Gerald Green,Miami Heat,14,SF,30,2023-07-06 00:00:00,205,,947276.0,167,26-30
+Udonis Haslem,Miami Heat,40,PF,36,2023-08-06 00:00:00,235,Florida,2854940.0,157,36-40
+Joe Johnson,Miami Heat,2,SF,34,2023-07-06 00:00:00,240,Arkansas,261894.0,150,31-35
+Tyler Johnson,Miami Heat,8,SG,24,2023-04-06 00:00:00,186,Fresno State,845059.0,160,18-25
+Josh McRoberts,Miami Heat,4,PF,29,2023-10-06 00:00:00,240,Duke,5543725.0,177,26-30
+Josh Richardson,Miami Heat,0,SG,22,2023-06-06 00:00:00,200,Tennessee,525093.0,174,18-25
+Amar'e Stoudemire,Miami Heat,5,PF,33,2023-10-06 00:00:00,245,,947276.0,174,31-35
+Dwyane Wade,Miami Heat,3,SG,34,2023-04-06 00:00:00,220,Marquette,20000000.0,167,31-35
+Briante Weber,Miami Heat,12,PG,23,2023-02-06 00:00:00,165,Virginia Commonwealth,,172,18-25
+Hassan Whiteside,Miami Heat,21,C,26,7-0,265,Marshall,981348.0,180,26-30
+Justise Winslow,Miami Heat,20,SF,20,2023-07-06 00:00:00,225,Duke,2481720.0,179,18-25
+Dorell Wright,Miami Heat,11,SF,30,2023-09-06 00:00:00,205,,,159,26-30
+Dewayne Dedmon,Orlando Magic,3,C,26,7-0,245,USC,947276.0,152,26-30
+Evan Fournier,Orlando Magic,10,SG,23,2023-07-06 00:00:00,205,,2288205.0,156,18-25
+Aaron Gordon,Orlando Magic,0,PF,20,2023-09-06 00:00:00,220,Arizona,4171680.0,177,18-25
+Mario Hezonja,Orlando Magic,23,SG,21,2023-08-06 00:00:00,218,,3741480.0,165,18-25
+Ersan Ilyasova,Orlando Magic,7,PF,29,2023-10-06 00:00:00,235,,7900000.0,175,26-30
+Brandon Jennings,Orlando Magic,55,PG,26,2023-01-06 00:00:00,169,,8344497.0,165,26-30
+Devyn Marble,Orlando Magic,11,SF,23,2023-06-06 00:00:00,200,Iowa,845059.0,174,18-25
+Shabazz Napier,Orlando Magic,13,PG,24,2023-01-06 00:00:00,175,Connecticut,1294440.0,169,18-25
+Andrew Nicholson,Orlando Magic,44,PF,26,2023-09-06 00:00:00,250,St. Bonaventure,2380593.0,177,26-30
+Victor Oladipo,Orlando Magic,5,SG,24,2023-04-06 00:00:00,210,Indiana,5192520.0,166,18-25
+Elfrid Payton,Orlando Magic,4,PG,22,2023-04-06 00:00:00,185,Louisiana-Lafayette,2505720.0,151,18-25
+Jason Smith,Orlando Magic,14,PF,30,7-0,240,Colorado State,4300000.0,150,26-30
+Nikola Vucevic,Orlando Magic,9,C,25,7-0,260,USC,11250000.0,165,18-25
+C.J. Watson,Orlando Magic,32,PG,32,2023-02-06 00:00:00,175,Tennessee,5000000.0,179,31-35
+Alan Anderson,Washington Wizards,6,SG,33,2023-06-06 00:00:00,220,Michigan State,4000000.0,161,31-35
+Bradley Beal,Washington Wizards,3,SG,22,2023-05-06 00:00:00,207,Florida,5694674.0,154,18-25
+Jared Dudley,Washington Wizards,1,SF,30,2023-07-06 00:00:00,225,Boston College,4375000.0,154,26-30
+Jarell Eddie,Washington Wizards,8,SG,24,2023-07-06 00:00:00,218,Virginia Tech,561716.0,176,18-25
+Drew Gooden,Washington Wizards,90,PF,34,2023-10-06 00:00:00,250,Kansas,3300000.0,172,31-35
+Marcin Gortat,Washington Wizards,13,C,32,2023-11-06 00:00:00,240,,11217391.0,158,31-35
+JJ Hickson,Washington Wizards,21,C,27,2023-09-06 00:00:00,242,North Carolina State,273038.0,158,26-30
+Nene Hilario,Washington Wizards,42,C,33,2023-11-06 00:00:00,250,,13000000.0,152,31-35
+Markieff Morris,Washington Wizards,5,PF,26,2023-10-06 00:00:00,245,Kansas,8000000.0,168,26-30
+Kelly Oubre Jr.,Washington Wizards,12,SF,20,2023-07-06 00:00:00,205,Kansas,1920240.0,165,18-25
+Otto Porter Jr.,Washington Wizards,22,SF,23,2023-08-06 00:00:00,198,Georgetown,4662960.0,165,18-25
+Ramon Sessions,Washington Wizards,7,PG,30,2023-03-06 00:00:00,190,Nevada,2170465.0,152,26-30
+Garrett Temple,Washington Wizards,17,SG,30,2023-06-06 00:00:00,195,LSU,1100602.0,169,26-30
+Marcus Thornton,Washington Wizards,15,SF,29,2023-04-06 00:00:00,205,LSU,200600.0,173,26-30
+John Wall,Washington Wizards,2,PG,25,2023-04-06 00:00:00,195,Kentucky,15851950.0,171,18-25
+Darrell Arthur,Denver Nuggets,0,PF,28,2023-09-06 00:00:00,235,Kansas,2814000.0,173,26-30
+D.J. Augustin,Denver Nuggets,12,PG,28,6-0,183,Texas,3000000.0,150,26-30
+Will Barton,Denver Nuggets,5,SF,25,2023-06-06 00:00:00,175,Memphis,3533333.0,173,18-25
+Wilson Chandler,Denver Nuggets,21,SF,29,2023-08-06 00:00:00,225,DePaul,10449438.0,169,26-30
+Kenneth Faried,Denver Nuggets,35,PF,26,2023-08-06 00:00:00,228,Morehead State,11235955.0,160,26-30
+Danilo Gallinari,Denver Nuggets,8,SF,27,2023-10-06 00:00:00,225,,14000000.0,166,26-30
+Gary Harris,Denver Nuggets,14,SG,21,2023-04-06 00:00:00,210,Michigan State,1584480.0,157,18-25
+Nikola Jokic,Denver Nuggets,15,C,21,2023-10-06 00:00:00,250,,1300000.0,153,18-25
+Joffrey Lauvergne,Denver Nuggets,77,C,24,2023-11-06 00:00:00,220,,1709719.0,155,18-25
+Mike Miller,Denver Nuggets,3,SG,36,2023-08-06 00:00:00,218,Florida,947276.0,157,36-40
+Emmanuel Mudiay,Denver Nuggets,0,PG,20,2023-05-06 00:00:00,200,,3102240.0,169,18-25
+Jameer Nelson,Denver Nuggets,1,PG,34,6-0,190,Saint Joseph's,4345000.0,179,31-35
+Jusuf Nurkic,Denver Nuggets,23,C,21,7-0,280,,1842000.0,152,18-25
+JaKarr Sampson,Denver Nuggets,9,SG,23,2023-09-06 00:00:00,214,St. John's,258489.0,165,18-25
+Axel Toupane,Denver Nuggets,6,SG,23,2023-07-06 00:00:00,210,,,179,18-25
+Nemanja Bjelica,Minnesota Timberwolves,88,PF,28,2023-10-06 00:00:00,240,,3950001.0,174,26-30
+Gorgui Dieng,Minnesota Timberwolves,5,C,26,2023-11-06 00:00:00,241,Louisville,1474440.0,152,26-30
+Kevin Garnett,Minnesota Timberwolves,21,PF,40,2023-11-06 00:00:00,240,,8500000.0,174,36-40
+Tyus Jones,Minnesota Timberwolves,1,PG,20,2023-02-06 00:00:00,195,Duke,1282080.0,178,18-25
+Zach LaVine,Minnesota Timberwolves,8,PG,21,2023-05-06 00:00:00,189,UCLA,2148360.0,167,18-25
+Shabazz Muhammad,Minnesota Timberwolves,15,SF,23,2023-06-06 00:00:00,223,UCLA,2056920.0,163,18-25
+Adreian Payne,Minnesota Timberwolves,33,PF,25,2023-10-06 00:00:00,237,Michigan State,1938840.0,167,18-25
+Nikola Pekovic,Minnesota Timberwolves,14,C,30,2023-11-06 00:00:00,307,,12100000.0,151,26-30
+Tayshaun Prince,Minnesota Timberwolves,12,SF,36,2023-09-06 00:00:00,212,Kentucky,947276.0,171,36-40
+Ricky Rubio,Minnesota Timberwolves,9,PG,25,2023-04-06 00:00:00,194,,12700000.0,152,18-25
+Damjan Rudez,Minnesota Timberwolves,10,SF,29,2023-09-06 00:00:00,230,,1149500.0,165,26-30
+Greg Smith,Minnesota Timberwolves,4,PF,25,2023-10-06 00:00:00,250,Fresno State,,178,18-25
+Karl-Anthony Towns,Minnesota Timberwolves,32,C,20,7-0,244,Kentucky,5703600.0,158,18-25
+Andrew Wiggins,Minnesota Timberwolves,22,SG,21,2023-08-06 00:00:00,199,Kansas,5758680.0,153,18-25
+Steven Adams,Oklahoma City Thunder,12,C,22,7-0,255,Pittsburgh,2279040.0,150,18-25
+Nick Collison,Oklahoma City Thunder,4,PF,35,2023-10-06 00:00:00,255,Kansas,3750000.0,153,31-35
+Kevin Durant,Oklahoma City Thunder,35,SF,27,2023-09-06 00:00:00,240,Texas,20158622.0,150,26-30
+Randy Foye,Oklahoma City Thunder,6,SG,32,2023-04-06 00:00:00,213,Villanova,3135000.0,163,31-35
+Josh Huestis,Oklahoma City Thunder,34,SF,24,2023-07-06 00:00:00,230,Stanford,1140240.0,170,18-25
+Serge Ibaka,Oklahoma City Thunder,9,PF,26,2023-10-06 00:00:00,245,,12250000.0,165,26-30
+Enes Kanter,Oklahoma City Thunder,11,C,24,2023-11-06 00:00:00,245,Kentucky,16407500.0,169,18-25
+Mitch McGary,Oklahoma City Thunder,33,PF,24,2023-10-06 00:00:00,255,Michigan,1463040.0,173,18-25
+Nazr Mohammed,Oklahoma City Thunder,13,C,38,2023-10-06 00:00:00,250,Kentucky,222888.0,157,36-40
+Anthony Morrow,Oklahoma City Thunder,2,SG,30,2023-05-06 00:00:00,210,Georgia Tech,3344000.0,156,26-30
+Cameron Payne,Oklahoma City Thunder,22,PG,21,2023-03-06 00:00:00,185,Murray State,2021520.0,152,18-25
+Andre Roberson,Oklahoma City Thunder,21,SG,24,2023-07-06 00:00:00,210,Colorado,1210800.0,166,18-25
+Kyle Singler,Oklahoma City Thunder,5,SF,28,2023-08-06 00:00:00,228,Duke,4500000.0,150,26-30
+Dion Waiters,Oklahoma City Thunder,3,SG,24,2023-04-06 00:00:00,220,Syracuse,5138430.0,165,18-25
+Russell Westbrook,Oklahoma City Thunder,0,PG,27,2023-03-06 00:00:00,200,UCLA,16744218.0,161,26-30
+Cliff Alexander,Portland Trail Blazers,34,PF,20,2023-08-06 00:00:00,240,Kansas,525093.0,176,18-25
+Al-Farouq Aminu,Portland Trail Blazers,8,SF,25,2023-09-06 00:00:00,215,Wake Forest,8042895.0,168,18-25
+Pat Connaughton,Portland Trail Blazers,5,SG,23,2023-05-06 00:00:00,206,Notre Dame,625093.0,171,18-25
+Allen Crabbe,Portland Trail Blazers,23,SG,24,2023-06-06 00:00:00,210,California,947276.0,172,18-25
+Ed Davis,Portland Trail Blazers,17,C,27,2023-10-06 00:00:00,240,North Carolina,6980802.0,171,26-30
+Maurice Harkless,Portland Trail Blazers,4,SF,23,2023-09-06 00:00:00,215,St. John's,2894059.0,163,18-25
+Gerald Henderson,Portland Trail Blazers,9,SG,28,2023-05-06 00:00:00,215,Duke,6000000.0,179,26-30
+Chris Kaman,Portland Trail Blazers,35,C,34,7-0,265,Central Michigan,5016000.0,155,31-35
+Meyers Leonard,Portland Trail Blazers,11,PF,24,2023-01-07 00:00:00,245,Illinois,3075880.0,155,18-25
+Damian Lillard,Portland Trail Blazers,0,PG,25,2023-03-06 00:00:00,195,Weber State,4236287.0,162,18-25
+C.J. McCollum,Portland Trail Blazers,3,SG,24,2023-04-06 00:00:00,200,Lehigh,2525160.0,168,18-25
+Luis Montero,Portland Trail Blazers,44,SG,23,2023-07-06 00:00:00,185,Westchester CC,525093.0,171,18-25
+Mason Plumlee,Portland Trail Blazers,24,C,26,2023-11-06 00:00:00,235,Duke,1415520.0,157,26-30
+Brian Roberts,Portland Trail Blazers,2,PG,30,2023-01-06 00:00:00,173,Dayton,2854940.0,176,26-30
+Noah Vonleh,Portland Trail Blazers,21,PF,20,2023-09-06 00:00:00,240,Indiana,2637720.0,176,18-25
+Trevor Booker,Utah Jazz,33,PF,28,2023-08-06 00:00:00,228,Clemson,4775000.0,151,26-30
+Trey Burke,Utah Jazz,3,PG,23,2023-01-06 00:00:00,191,Michigan,2658240.0,170,18-25
+Alec Burks,Utah Jazz,10,SG,24,2023-06-06 00:00:00,214,Colorado,9463484.0,179,18-25
+Dante Exum,Utah Jazz,11,PG,20,2023-06-06 00:00:00,190,,3777720.0,150,18-25
+Derrick Favors,Utah Jazz,15,PF,24,2023-10-06 00:00:00,265,Georgia Tech,12000000.0,177,18-25
+Rudy Gobert,Utah Jazz,27,C,23,2023-01-07 00:00:00,245,,1175880.0,164,18-25
+Gordon Hayward,Utah Jazz,20,SF,26,2023-08-06 00:00:00,226,Butler,15409570.0,150,26-30
+Rodney Hood,Utah Jazz,5,SG,23,2023-08-06 00:00:00,206,Duke,1348440.0,154,18-25
+Joe Ingles,Utah Jazz,2,SF,28,2023-08-06 00:00:00,226,,2050000.0,177,26-30
+Chris Johnson,Utah Jazz,23,SF,26,2023-06-06 00:00:00,206,Dayton,981348.0,178,26-30
+Trey Lyles,Utah Jazz,41,PF,20,2023-10-06 00:00:00,234,Kentucky,2239800.0,165,18-25
+Shelvin Mack,Utah Jazz,8,PG,26,2023-03-06 00:00:00,203,Butler,2433333.0,168,26-30
+Raul Neto,Utah Jazz,25,PG,24,2023-01-06 00:00:00,179,,900000.0,153,18-25
+Tibor Pleiss,Utah Jazz,21,C,26,2023-03-07 00:00:00,256,,2900000.0,152,26-30
+Jeff Withey,Utah Jazz,24,C,26,7-0,231,Kansas,947276.0,166,26-30
+Priyanka,Utah Jazz,34,C,25,2023-03-07 00:00:00,231,Kansas,947276.0,166,18-25
